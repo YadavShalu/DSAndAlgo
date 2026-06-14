@@ -17,6 +17,13 @@ The goal of this repository is to strengthen problem-solving skills, master algo
 ---
 
 ## Repository Structure
+# Linked List
+## [Linked List](https://github.com/YadavShalu/DSAndAlgo/blob/main/Linked%20List/)
+| Problem | Difficulty | Platform | Solution |
+|----------|------------|-----------|-----------|
+| Maximum Twin Sum of a Linked List | Medium | [LeetCode 2130](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [Code](https://github.com/YadavShalu/DSAndAlgo/blob/main/Linked%20List/Maximum%20Twin%20Sum%20of%20a%20Linked%20List.cpp) |
+
+---
 
 # Tree Algorithms
 
@@ -33,7 +40,6 @@ The goal of this repository is to strengthen problem-solving skills, master algo
 
 For every problem, I aim to include:
 
-- Problem statement
 - Brute force intuition
 - Optimized approach
 - Time & Space Complexity
