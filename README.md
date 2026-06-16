@@ -17,13 +17,20 @@ The goal of this repository is to strengthen problem-solving skills, master algo
 ---
 
 ## Repository Structure
+
+# String
+## [String](https://github.com/YadavShalu/DSAndAlgo/blob/main/String/)
+| Problem | Difficulty | Platform | Solution |
+|----------|------------|-----------|-----------|
+| Process Stringwith Special Operation I | Medium | [LeetCode 3612](https://leetcode.com/problems/process-string-with-special-operations-i/) | [Code](https://github.com/YadavShalu/DSAndAlgo/blob/main/String/Process%20String%20with%20Special%20Operations%20I.cpp) |
+---
+
 # Linked List
 ## [Linked List](https://github.com/YadavShalu/DSAndAlgo/blob/main/Linked%20List/)
 | Problem | Difficulty | Platform | Solution |
 |----------|------------|-----------|-----------|
 | Maximum Twin Sum of a Linked List | Medium | [LeetCode 2130](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | [Code](https://github.com/YadavShalu/DSAndAlgo/blob/main/Linked%20List/Maximum%20Twin%20Sum%20of%20a%20Linked%20List.cpp) |
 | Delete the Middle Node of a Linked List | Medium | [LeetCode 2095](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [Code](https://github.com/YadavShalu/DSAndAlgo/blob/main/Linked%20List/Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.cpp) |
-
 ---
 
 # Tree Algorithms
