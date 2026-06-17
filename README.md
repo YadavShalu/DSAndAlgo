@@ -22,8 +22,8 @@ The goal of this repository is to strengthen problem-solving skills, master algo
 ## [String](https://github.com/YadavShalu/DSAndAlgo/blob/main/String/)
 | Problem | Difficulty | Platform | Solution |
 |----------|------------|-----------|-----------|
-| Process Stringwith Special Operation I | Medium | [LeetCode 3612](https://leetcode.com/problems/process-string-with-special-operations-i/) | [Code](https://github.com/YadavShalu/DSAndAlgo/blob/main/String/Process%20String%20with%20Special%20Operations%20I.cpp) |
----
+| Process String with Special Operation I | Medium | [LeetCode 3612](https://leetcode.com/problems/process-string-with-special-operations-i/) | [Code](https://github.com/YadavShalu/DSAndAlgo/blob/main/String/Process%20String%20with%20Special%20Operations%20I.cpp) |
+| Process Stringwith Special Operation I | Medium | [LeetCode 3614](https://leetcode.com/problems/process-string-with-special-operations-i/) | [Code](https://github.com/YadavShalu/DSAndAlgo/blob/main/String/Process%20String%20with%20Special%20Operations%20II.cpp) |
 
 # Linked List
 ## [Linked List](https://github.com/YadavShalu/DSAndAlgo/blob/main/Linked%20List/)
